@@ -11,6 +11,13 @@
 - [ ] [Acknowledgements](#Acknowledgements)
 
 ## <a name='results'></a> 🔎 Results
+<details>
+<summary>&ensp;Quantitative Comparisons (click to expand) </summary>
+<p align="center">
+<img src="./assets/quan_com1.png" >
+<img src="./assets/quan_com2.png" >
+</p>
+</details>
 
 <details>
 <summary>&ensp;Visual Comparisons (click to expand) </summary>
